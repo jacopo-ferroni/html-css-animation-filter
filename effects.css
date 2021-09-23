@@ -7,3 +7,13 @@
     background-color: red;
 } 
 /* FATTO */
+
+/* esercizio 2 */
+.ex-2-square {
+    transition: 4s;
+}
+
+.ex-2-square:active {
+    width: 100%;
+}
+/* FATTO */
