@@ -103,3 +103,28 @@
 }
 /* FATTO */
 
+/* esercizio 11 */
+.ex-11-icon {
+    animation: spin1 infinite linear 4s;
+}
+
+@keyframes spin1 {
+    0% {
+        transform: rotate(0turn);
+    }
+    25% {
+        transform: rotate(0.25turn);
+    }
+    50% {
+        transform: rotate(.50turn);
+    }
+    75% {
+        transform: rotate(.75turn);
+    }
+    100% {
+        transform: rotate(-.0turn);
+    }
+}
+/* FATTO */
+
+/* esercizio 12 */
