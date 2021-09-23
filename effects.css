@@ -27,3 +27,13 @@
     border-radius: 50%;
 }
 /* FATTO */
+
+/* esercizio 4 */
+.ex-4-square {
+    transition: 4s;
+}
+
+.ex-4-square:hover {
+    opacity: 0;
+}
+/* FATTO */
