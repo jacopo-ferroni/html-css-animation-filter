@@ -79,3 +79,15 @@
 }
 /* FATTO */
 
+/* esercizio 9 */
+.ex-9-img {
+    transition: 2s;
+}
+
+.ex-9-img:hover {
+    border-radius: 20%;
+    filter: blur(5px) grayscale(1);
+    scale: 1.2;
+}
+/* FATTO */
+
