@@ -91,3 +91,15 @@
 }
 /* FATTO */
 
+/* esercio 10 */
+.ex-10-icon {
+    animation: spin infinite linear 4s;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(1turn);
+    }
+}
+/* FATTO */
+
