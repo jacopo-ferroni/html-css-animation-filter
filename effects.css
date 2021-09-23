@@ -37,3 +37,17 @@
     opacity: 0;
 }
 /* FATTO */
+
+/* esercizo 5 */
+.ex-5-square {
+    transition: 2s;
+}
+
+.ex-5-square:hover {
+    scale: 1.5;
+}
+
+.ex-5-square:active {
+    scale: 0.5
+}
+/* FATTO */
